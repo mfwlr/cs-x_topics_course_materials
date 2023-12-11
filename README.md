@@ -1,4 +1,4 @@
-# cs-x_topics_curriculum
+# cs-x_topics_course_materials
 Landing page for a CS+X topics class' materials, as presented in "Designing and Piloting a High School CS+X Topics Course" by Isenegger et al. in SIGCSE 2024. When the ACM digital library link is added, this page will be updated. Likewise, should the project move to a different website in the future, this repository will remain maintained to provide a redirect.
 
 
